@@ -89,6 +89,9 @@ button img{
     background-color: #000;
     color: #E5E5E5;
 }
+#footer-nav{
+    display: none;
+}
 
 @media (max-width:600px){
     header{
